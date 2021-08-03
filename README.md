@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm H3x0
 
-<!--
-**h3x0crypt/h3x0crypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">Remember, open source is not commercial software development.
+Be mindful and respect the time that I (and every other contributor) provide to the community free of charge. 😄</p>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=h3x0crypt&label=Views&color=blue&style=plastic" alt="h3x0crypt" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=h3x0crypt)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=h3x0crypt&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3x0crypt&layout=compact" />
+</div>
+
+<br/>
+<br/>
