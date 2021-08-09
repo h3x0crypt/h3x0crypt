@@ -5,8 +5,6 @@ Be mindful and respect the time that I (and every other contributor) provide to 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h3x0crypt&label=Views&color=blue&style=plastic" alt="h3x0crypt" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=h3x0crypt)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=h3x0crypt&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3x0crypt&layout=compact" />
